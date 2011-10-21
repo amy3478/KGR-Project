@@ -1,0 +1,106 @@
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.exe
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.pdb
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.baml
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\App.g.cs
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition_MarkupCompile.cache
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.g.resources
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.Properties.Resources.resources
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+C:\Users\ziquan\documents\visual studio 2010\Projects\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.exe
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.pdb
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.baml
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\App.g.cs
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition_MarkupCompile.cache
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.g.resources
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.Properties.Resources.resources
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shengdong Zhao\Dropbox\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.baml
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.g.cs
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\App.g.cs
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition_MarkupCompile.cache
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.g.resources
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.Properties.Resources.resources
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\HCI Lab\CS4201 Kinect workshop\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.baml
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.g.cs
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\App.g.cs
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition_MarkupCompile.cache
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.g.resources
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.Properties.Resources.resources
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\HCI Lab\Project\KinectGesture_ArmsPosition\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.baml
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.g.cs
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\App.g.cs
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition_MarkupCompile.cache
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.g.resources
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.Properties.Resources.resources
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\HCI Lab\Project\CURRENT PROJECT\DELTA POSITION\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.baml
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.g.cs
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\App.g.cs
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition_MarkupCompile.cache
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.g.resources
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.Properties.Resources.resources
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\HCI Lab\Project\CURRENT PROJECT\DTW Test\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.pdb
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.baml
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.g.cs
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\App.g.cs
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition_MarkupCompile.cache
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.g.resources
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.Properties.Resources.resources
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11 - Back up hafteye akhar\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+C:\HCI Lab\Project\CURRENT PROJECT\DTW 9-8-11 - Back up hafteye akhar\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.exe
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.pdb
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.baml
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\MainWindow.g.cs
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\App.g.cs
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition_MarkupCompile.cache
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.g.resources
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\KinectGesture_ArmsPosition.Properties.Resources.resources
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.exe
+D:\NUS-HCI Lab Archives\Archive for Sahand (Gesture recognition project)\Code\Final Version - Copy\KinectGesture_ArmsPosition\bin\Debug\KinectGesture_ArmsPosition.pdb
